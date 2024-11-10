@@ -1,0 +1,17 @@
+imu_type=6
+
+acc_cal_off_x=0x46
+acc_cal_off_y=0xFFD4
+acc_cal_off_z=0x9E
+acc_cal_scl_x=0x4000
+acc_cal_scl_y=0x4000
+acc_cal_scl_z=0x4000
+
+gyr_cal_off_x=0xB
+gyr_cal_off_y=0xA
+gyr_cal_off_z=0x9
+gyr_cal_scl_x=0x3BE7
+gyr_cal_scl_y=0x3BE7
+gyr_cal_scl_z=0x3BE7
+
+device_bt_mac=60:1A:C7:DB:40:2D
