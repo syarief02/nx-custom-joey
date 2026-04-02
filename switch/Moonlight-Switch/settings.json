@@ -1,0 +1,50 @@
+{
+    "hosts": [
+        {
+            "address": "192.168.100.17",
+            "hostname": "JoeyGigabytePC",
+            "mac": "30:f6:ef:4b:d2:8c",
+            "favorites": []
+        }
+    ],
+    "settings": {
+        "resolution": 720,
+        "fps": 60,
+        "video_codec": 1,
+        "audio_backend": 0,
+        "bitrate": 5407,
+        "decoder_threads": 4,
+        "frames_queue_size": 3,
+        "enable_hdr": false,
+        "click_by_tap": false,
+        "use_hw_decoding": true,
+        "sops": true,
+        "play_audio": false,
+        "write_log": false,
+        "swap_ui_keys": false,
+        "swap_joycon_stick_to_dpad": false,
+        "touchscreen_mouse_mode": false,
+        "swap_mouse_keys": false,
+        "swap_mouse_scroll": false,
+        "volume_amplification": false,
+        "stream_volume": 100,
+        "overlay_hold_time": 0,
+        "mouse_input_hold_time": 0,
+        "mouse_speed_multiplier": 34,
+        "deadzone_stick_left": 0,
+        "deadzone_stick_right": 0,
+        "rumble_force": 100,
+        "current_mapping_layout": 1,
+        "keyboard_type": 0,
+        "keyboard_fingers": 3,
+        "overlay_system_button": 0,
+        "guide_system_button": 0,
+        "overlay_buttons": [
+            7,
+            9
+        ],
+        "mouse_input_buttons": [],
+        "guide_key_buttons": []
+    },
+    "mapping_layouts": []
+}
